@@ -1,0 +1,19 @@
+# Prime Checker
+
+A simple Go program to check if a given number is a prime number.
+
+## How to Run
+
+Use the following command to run the `primechecker.go` file:
+
+```bash
+go run primechecker.go <number>
+```
+## Example:
+```bash
+go run primechecker.go 7 
+```
+## Output:
+```bash
+7 is a prime number.
+```

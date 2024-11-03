@@ -1,0 +1,9 @@
+For run
+
+go run calc.go <number1> <operator> <number2>
+
+Example:
+
+go run calc.go 10 + 5
+// Result: 15.000000
+
